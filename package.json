@@ -21,7 +21,7 @@
   "homepage": "https://github.com/anthkris/id-simulator#readme",
   "dependencies": {
     "bulma": "^0.7.1",
-    "serve": "^10.0.0"
+    "serve": "^10.1.2"
   },
   "devDependencies": {
     "css-loader": "^1.0.0",
